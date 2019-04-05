@@ -1,12 +1,9 @@
 
 
 * 下载
-   * `wget https://github.com/TestSmirk/dnspod_ddns/blob/master/dnspod.sh --no-check-certificate`
-   
-     `wget https://github.com/TestSmirk/dnspod_ddns/blob/master/dnspod.conf --no-check-certificate`
-   * 或者
-       
+
        `git clone https://github.com/TestSmirk/dnspod_ddns.git`
+       
 * 编辑`dnspod.conf`
   TOKEN和ID在[dnspod](https://www.dnspod.cn/console/user/security)获取
   
