@@ -23,6 +23,11 @@
   RECORD_LINE="默认"
   ```
 * 运行测试
+  没有权限的话`chomd +x dnspod.sh`
+  * 脚本需要curl支持 
+    * CentOS `yum install curl` 
+    * Ubuntu `apt install curl`
+    * OpenWrt `opkg install curl`
   `./dnspod.sh dnspod.conf`
   
 * 加入定时任务
