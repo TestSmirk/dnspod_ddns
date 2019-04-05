@@ -1,17 +1,18 @@
-
-
 * 下载
-       * 
+    
+    * 
+    ```
+     wget https://raw.githubusercontent.com/TestSmirk/dnspod_ddns/master/dnspod.conf --no-check-certificate
        
-       `wget https://raw.githubusercontent.com/TestSmirk/dnspod_ddns/master/dnspod.conf --no-check-certificate`
+     wget https://raw.githubusercontent.com/TestSmirk/dnspod_ddns/master/dnspod.sh --no-check-certificate
+    ```
+    * or
        
-       `wget https://raw.githubusercontent.com/TestSmirk/dnspod_ddns/master/dnspod.sh --no-check-certificate`
        
-       * 或者
-       
-       `git clone https://github.com/TestSmirk/dnspod_ddns.git`
-       
-* 编辑`dnspod.conf`
+      
+       `git clone https://github.com/TestSmirk/dnspod_ddns.git`       
+* 编辑 `dnspod.conf`
+
   TOKEN和ID在[dnspod](https://www.dnspod.cn/console/user/security)获取
   
   ![console](https://github.com/TestSmirk/dnspod_ddns/blob/master/images/console.png)
