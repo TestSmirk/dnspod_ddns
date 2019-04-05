@@ -1,7 +1,14 @@
 
 
 * 下载
-
+       * 
+       
+       `wget https://raw.githubusercontent.com/TestSmirk/dnspod_ddns/master/dnspod.conf --no-check-certificate`
+       
+       `wget https://raw.githubusercontent.com/TestSmirk/dnspod_ddns/master/dnspod.sh --no-check-certificate`
+       
+       * 或者
+       
        `git clone https://github.com/TestSmirk/dnspod_ddns.git`
        
 * 编辑`dnspod.conf`
