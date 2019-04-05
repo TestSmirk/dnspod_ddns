@@ -29,4 +29,5 @@
   Insert
   
   `*/3 * * * * /root/ddns/dnspod.sh /root/ddns/dnspod.conf >> /root/ddns/dnspod.log`
+  
   `:wq`
