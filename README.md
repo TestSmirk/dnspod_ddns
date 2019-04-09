@@ -29,6 +29,7 @@
     * CentOS `yum install curl` 
     * Ubuntu `apt install curl`
     * OpenWrt `opkg install curl`
+    
   `./dnspod.sh dnspod.conf`
   
 * 加入定时任务
